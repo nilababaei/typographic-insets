@@ -87,3 +87,44 @@ footer {
 */
 
 /* Write your CSS here */
+
+figure {
+  float: right;
+
+  border-style: solid;
+  border-width: 3px;
+  border-left: 0;
+  border-right: 0;
+  border-color: #333;
+
+  margin: 0;
+  padding: .4em .2em;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: .875rem;
+  padding-bottom: 6px;
+  padding-top: 6px;
+}
+
+img {
+  padding-top: 6px;
+}
+
+blockquote {
+  float: left;
+
+  border-style: solid;
+  border-width: 3px;
+  border-left: 0;
+  border-right: 0;
+  border-color: #333;
+
+  margin: .4em;
+  padding: .4em .2em;
+
+  font-size: 1.5rem;
+
+  width: 300px;
+}
