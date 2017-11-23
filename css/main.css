@@ -97,18 +97,15 @@ figure {
   border-right: 0;
   border-color: #333;
 
-  margin: 0;
-  padding: .4em .2em;
+  margin: 1em .5em;
+  padding: 6px 0;
+
+  width: 300px;
 }
 
 figcaption {
   font-style: italic;
   font-size: .875rem;
-  padding-bottom: 6px;
-  padding-top: 6px;
-}
-
-img {
   padding-top: 6px;
 }
 
@@ -129,7 +126,7 @@ blockquote {
   width: 300px;
 }
 
-.wrapper>p:first-child::first-letter {
+.wrapper > p:first-child::first-letter {
   border-style: solid;
   border-width: 3px;
   border-left: 0;
@@ -137,7 +134,7 @@ blockquote {
   border-color: #333;
 
   font-size: 5rem;
-  padding: .6em .2em;
+  padding: .4em .2em;
   background-color: #666;
   color: #f2f2f2;
 
