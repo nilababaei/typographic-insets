@@ -101,6 +101,8 @@ figure {
   padding: 6px 0;
 
   width: 300px;
+
+  margin-right: -6em;
 }
 
 figcaption {
@@ -126,6 +128,8 @@ blockquote {
   width: 300px;
 
   color: #666;
+
+  margin-left: -6em;
 }
 
 .wrapper > p:first-child::first-letter {
