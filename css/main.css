@@ -102,7 +102,11 @@ figure {
 
   width: 300px;
 
-  margin-right: -6em;
+  margin-right: -9.25em;
+
+  margin-top: .2em;
+
+  margin-bottom: 0;
 }
 
 figcaption {
@@ -130,6 +134,8 @@ blockquote {
   color: #666;
 
   margin-left: -6em;
+
+  text-align: right;
 }
 
 .wrapper > p:first-child::first-letter {
@@ -140,11 +146,15 @@ blockquote {
   border-color: #333;
 
   font-size: 5rem;
-  padding: .4em .2em;
+  padding: .15em .2em;
   background-color: #666;
   color: #f2f2f2;
 
-  margin-right: 6px;
+  margin-right: 7px;
   margin-bottom: 6px;
   float: left;
+  margin-top: .05em;
+  margin-left: -2.5rem;
+
+  font-style: normal;
 }
