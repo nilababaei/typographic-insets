@@ -124,6 +124,8 @@ blockquote {
   font-size: 1.5rem;
 
   width: 300px;
+
+  color: #666;
 }
 
 .wrapper > p:first-child::first-letter {
